@@ -128,8 +128,8 @@ github-repo-summary.py \
   aerovolts/reading-list \
   ammadafsar/reading-list \
   connors511/reading-list \
-  donovon/reading-list \
   jakehschwartz/reading-list \
+  markroxor/reading-list \
   samtron1412/reading-list \
   rwfeather/reading-list \
   seanosaur/reading_list \
